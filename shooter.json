@@ -1,0 +1,58 @@
+[
+    {
+        "id": "01",
+        "name": "Kagura Samashi",
+        "point": 2500,
+        "atk": 500,
+        "agi": 30
+    },
+    {
+        "id": "02",
+        "name": "Sandya Alamat",
+        "point": 3000,
+        "atk": 390,
+        "agi": 50
+    },
+    {
+        "id": "03",
+        "name": "Yamako Kudanni",
+        "point": 1000,
+        "atk": 300,
+        "agi": 79
+    },
+    {
+        "id": "04",
+        "name": "Domou Saten",
+        "point": 2300,
+        "atk": 140,
+        "agi": 80
+    },
+    {
+        "id": "05",
+        "name": "Melon Glassgirl",
+        "point": 2100,
+        "atk": 700,
+        "agi": 25
+    },
+    {
+        "id": "06",
+        "name": "Eichiro Mahon",
+        "point": 1000,
+        "atk": 640,
+        "agi": 90
+    },
+    {
+        "id": "07",
+        "name": "Alice Marcxid",
+        "point": 3500,
+        "atk": 1000,
+        "agi": 10
+    },
+    {
+        "id": "08",
+        "name": "Tera Shooter - EXTREAM IO",
+        "point": 10000,
+        "atk": 1800,
+        "agi": 5
+    }
+]
