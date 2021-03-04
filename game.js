@@ -28,8 +28,7 @@ let gamematch = (turnplayer, enemy) => {
             enemy.point -= dmgrange
             console.log(`${charname} [attack]=> ${enemyname} for ${dmgrange} damages.`)
             console.log(`||${enemyname} have ${enemy.point} point left.||\n`)
-        }
-        else {
+        } else {
             enemy.point = 0
             console.log(`${charname} [attack]=> ${enemyname} for ${dmgrange} damages.`)
             console.log(`${enemyname} is defeated !!\n`)
