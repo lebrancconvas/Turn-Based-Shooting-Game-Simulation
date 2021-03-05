@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": "01",
         "name": "Kagura Samashi",
         "point": 2500,
@@ -54,5 +53,47 @@
         "point": 10000,
         "atk": 1800,
         "agi": 5
+    },
+    {
+        "id": "09",
+        "name": "Hitomi Naruoka",
+        "point": 900,
+        "atk": 470,
+        "agi": 53
+    },
+    {
+        "id": "10",
+        "name": "Satoshi Waiku",
+        "point": 2770,
+        "atk": 440,
+        "agi": 74
+    },
+    {
+        "id": "11",
+        "name": "Lucky Eleven",
+        "point": 1111,
+        "atk": 711,
+        "agi": 11
+    },
+    {
+        "id": "12",
+        "name": "Espada Transistor",
+        "point": 2100,
+        "atk": 830,
+        "agi": 28
+    },
+    {
+        "id": "13",
+        "name": "Rinna Kohana",
+        "point": 1700,
+        "atk": 620,
+        "agi": 66
+    },
+    {
+        "id": "14",
+        "name": "Machiro Kohanin",
+        "point": 2200,
+        "atk": 530,
+        "agi": 32
     }
 ]
